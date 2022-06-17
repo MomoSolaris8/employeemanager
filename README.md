@@ -1,6 +1,6 @@
 # Employeemanager
 fronted from employee project
-# The Project covers fllowing
+# The Project covers fllowing points
 1.Spring Boot 
 
 2.MySQL using Spring Data JPa

@@ -1,5 +1,5 @@
 # Employeemanager
-fronted from employee project
+Backend from employee project
 # The Project covers fllowing points
 1.Spring Boot 
 
